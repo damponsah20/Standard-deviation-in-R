@@ -1,1 +1,1 @@
-# Standard-deviation-in-R
+How to calculate standard deviation in R
